@@ -14,3 +14,30 @@
 .rm-navbar-max {
     display: none;
 }
+
+html {
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+.wrap-all {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.site-logo {
+    display: none;
+}
+
+.region-flash {
+    display: none;
+}
+
+.footer-column {
+    width: 33%;
+    float: left;
+}
